@@ -3,7 +3,7 @@
 ## Matrix inversion is usually a costly computation and their may be some benefit
 ## to caching the inverse of a matrix rather than compute it repeatedly.
 ## 
-## Two functions are defined here in order to facilitate the operations.
+## Two functions are defined in the following in order to facilitate the operations.
 ## 
 ##   makeCacheMatrix: This function creates and returns a special matrix object that 
 ##                    can cache its inverse. 
